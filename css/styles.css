@@ -5,6 +5,7 @@
 }
 
 body {
+	background-color: #333;
 	width: 80%;
 	margin: 0 auto;
 }
@@ -12,3 +13,22 @@ body {
 header, section, footer, nav, article, aside { 
 	display: block;
 }
+
+/* шапка */
+
+header {
+	
+}
+
+/* тело */
+
+article {
+	
+}
+
+/* подвал */
+
+footer {
+	
+}
+
